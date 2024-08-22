@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/judyoudomsouk/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/judyoudomsouk/azure-network-protocols)
-  - [Building Serverless Applications in Azure](https://github.com/judyoudomsouk/serverless-azure)
+  - [Disaster Recovery Plan with Azure Site Recovery](https://github.com/judyoudomsouk/azure-recovery)
 
 <h2>🤳Connect with me:</h2>
 
